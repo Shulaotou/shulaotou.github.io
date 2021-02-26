@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shulaotou.github.io/blog</id>
-    <title>W Blog</title>
-    <updated>2021-02-25T18:22:41.180Z</updated>
+    <title>舒老头-web前端工程师 Blog</title>
+    <updated>2021-02-26T08:36:26.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shulaotou.github.io/blog"/>
-    <subtitle>W Blog</subtitle>
+    <subtitle>舒老头-web前端工程师 Blog</subtitle>
     <icon>https://shulaotou.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[安装Docusaurus个人博客系统]]></title>
+        <id>installblog</id>
+        <link href="https://shulaotou.github.io/blog/installblog"/>
+        <updated>2021-02-26T08:36:26.439Z</updated>
+        <summary type="html"><![CDATA[douc]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[怎样让你的 GitHub 全绿]]></title>
         <id>github</id>
         <link href="https://shulaotou.github.io/blog/github"/>
         <updated>2021-02-25T18:22:41.180Z</updated>
-        <summary type="html"><![CDATA[11]]></summary>
+        <summary type="html"><![CDATA[大家可能有的不明白啥意思啊，这个绿指的是就是 GitHub 的 Contribution，如果你每天都提交代码到 GitHub，至少一次 commit，那么 GitHub 就会在你当天对应的 Contribution 格子上点上绿色，比如我的就是这样子：]]></summary>
     </entry>
 </feed>

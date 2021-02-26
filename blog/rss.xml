@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>W Blog</title>
+        <title>舒老头-web前端工程师 Blog</title>
         <link>https://shulaotou.github.io/blog</link>
-        <description>W Blog</description>
-        <lastBuildDate>Thu, 25 Feb 2021 18:22:41 GMT</lastBuildDate>
+        <description>舒老头-web前端工程师 Blog</description>
+        <lastBuildDate>Fri, 26 Feb 2021 08:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[安装Docusaurus个人博客系统]]></title>
+            <link>https://shulaotou.github.io/blog/installblog</link>
+            <guid>installblog</guid>
+            <pubDate>Fri, 26 Feb 2021 08:36:26 GMT</pubDate>
+            <description><![CDATA[douc]]></description>
+        </item>
         <item>
             <title><![CDATA[怎样让你的 GitHub 全绿]]></title>
             <link>https://shulaotou.github.io/blog/github</link>
             <guid>github</guid>
             <pubDate>Thu, 25 Feb 2021 18:22:41 GMT</pubDate>
-            <description><![CDATA[11]]></description>
+            <description><![CDATA[大家可能有的不明白啥意思啊，这个绿指的是就是 GitHub 的 Contribution，如果你每天都提交代码到 GitHub，至少一次 commit，那么 GitHub 就会在你当天对应的 Contribution 格子上点上绿色，比如我的就是这样子：]]></description>
         </item>
     </channel>
 </rss>
